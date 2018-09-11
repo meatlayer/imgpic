@@ -1,0 +1,38 @@
+body {background-color:#FFF; color:#555; font-family:Verdana; font-size:12px;}
+a    {color:#5A433E; font-family:Verdana; font-size:13px; text-decoration:none;}
+a:hover   {color:#E1BCBC; font-family:Verdana; font-size:13px;}
+table, td {font-size:14px; color:#242424; font-family:Verdana;}
+.infa     {width:61%; text-align:left;}
+.nav  a         {color:#4E302E; padding:1px; margin:1px;}
+.nav a:hover  {color:#AE1612; text-decoration:underline; padding:1px; margin:1px;}
+#upload   {width:61%; color:#242424;}
+h1 {color:#141918; font:italic 1.51em Georgia,Times,serif;}
+h3 {
+	font: 1.5em/1em arial;
+	margin-bottom: 0.5em;
+}
+h5 {padding:1px; margin:2px;}
+.inner-box {
+	padding:1em; 
+}
+.r1, .r2, .r3, .r4, .r5, .r6, .r7, .r8, .r9, .r10 {
+	display: block;
+	height: 1px;
+	overflow: hidden;
+	font-size:1px;
+}
+.r10 { margin: 0 10px; }
+.r9 { margin: 0 9px; }
+.r8 { margin: 0 8px; }
+.r7 { margin: 0 7px; }
+.r6 { margin: 0 6px; }
+.r5 { margin: 0 5px; }
+.r4 { margin: 0 4px; }
+.r3 { margin: 0 3px; }
+.r2 { margin: 0 2px; }
+.r1 { margin: 0 1px; }
+.inner-box, b { background-color:#ECEBE4; }
+#rounded-box-3, #rounded-box-5, #rounded-box-10 { margin:1em; }
+#rounded-box-3 .inner-box { padding: 1em; }
+#rounded-box-5 .inner-box { padding: 0.7em 1em; }
+#rounded-box-10 .inner-box { padding: 0.4em 1em; }

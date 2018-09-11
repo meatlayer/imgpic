@@ -1,0 +1,12 @@
+#Options +FollowSymLinks
+#RewriteEngine On
+#RewriteCond %{HTTP_HOST} ^www.imgpic\.ru$ [NC]
+#RewriteRule ^(.*)$ http://imgpic.ru/$1 [R=301,L]
+
+Options -Indexes
+
+<Files "config.php">
+Order Allow,Deny
+Deny from All
+</Files>
+

@@ -1,0 +1,3 @@
+php_value engine Off
+RemoveHandler .pl .cgi .php .php3 .sh
+RemoveType .pl .cgi .php .php3 .sh
